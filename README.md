@@ -12,12 +12,13 @@ An AI-powered web application that predicts loan eligibility based on user input
 - Model training notebook included
 
 ## Demo
-![Screenshot 2025-06-20 193607](https://github.com/user-attachments/assets/243f0d17-f10b-4f68-ae28-e3ddeed28fc9)
-![Screenshot 2025-06-20 193547](https://github.com/user-attachments/assets/b44830a8-9178-46a2-a2d9-0a6c65aa1577)
-![Screenshot 2025-06-20 193510](https://github.com/user-attachments/assets/1df5482f-b7a0-44f2-ab3b-7372733a804f)
-![Screenshot 2025-06-20 193437](https://github.com/user-attachments/assets/38a87f1f-8a07-4120-9d11-b8af8919fe4e)
-![Screenshot 2025-06-20 193659](https://github.com/user-attachments/assets/632eca5d-3eec-4d68-898f-ace7e2addadf)
-![Screenshot 2025-06-20 193637](https://github.com/user-attachments/assets/6f65b1f9-55be-4932-97c9-3221923ef329)
+![Screenshot 2025-06-20 193437](https://github.com/user-attachments/assets/01044d99-bdbd-49d8-9dd6-f399c2ddd9b4)
+![Screenshot 2025-06-20 193510](https://github.com/user-attachments/assets/73516e87-8633-4495-84de-271791b1d54f)
+![Screenshot 2025-06-20 193547](https://github.com/user-attachments/assets/bacbfedb-2fba-4c38-9a64-0718664698a2)
+![Screenshot 2025-06-20 193607](https://github.com/user-attachments/assets/ffbb0460-5ec3-4a71-bcf5-03074d1a7a7b)
+![Screenshot 2025-06-20 193637](https://github.com/user-attachments/assets/83a43ef3-c60b-472c-87cc-654645a325ed)
+![Screenshot 2025-06-20 193659](https://github.com/user-attachments/assets/b9b6aa6e-c3cd-439f-9a81-8e9f7ab36eeb)
+
 
 
 ## Getting Started
