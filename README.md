@@ -12,13 +12,7 @@ An AI-powered web application that predicts loan eligibility based on user input
 - Model training notebook included
 
 ## Demo
-![Screenshot 2025-06-20 193637](https://github.com/user-attachments/assets/2bb3ffe4-a215-45cf-9748-e6c391b8ae9b)
-![Screenshot 2025-06-20 193607](https://github.com/user-attachments/assets/300544cb-9c12-4941-a4a3-01e7d38953f8)
-![Screenshot 2025-06-20 193547](https://github.com/user-attachments/assets/b6ee7b33-e286-41c5-80b3-139e60fe97ec)
-![Screenshot 2025-06-20 193510](https://github.com/user-attachments/assets/e1cdad28-5a3c-405c-9ef0-b3712b591214)
-![Screenshot 2025-06-20 193437](https://github.com/user-attachments/assets/bfc883f8-7225-45ab-9bc7-bd6e1eed5e8d)
-![Screenshot 2025-06-20 193659](https://github.com/user-attachments/assets/78bd6c36-d687-4d93-b162-81b5f8675310)
-
+![App Screenshot](screenshot.png) <!-- Add a screenshot if available -->
 
 ## Getting Started
 
@@ -28,7 +22,8 @@ An AI-powered web application that predicts loan eligibility based on user input
 ### Installation
 1. Clone this repository:
    ```bash
-   
+   git clone https://github.com/yourusername/loan-approval-prediction.git
+   cd loan-approval-prediction/loan_app
    ```
 2. Install dependencies:
    ```bash
@@ -96,7 +91,7 @@ loan_app/
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+[MIT](LICENSE) <!-- Add a LICENSE file if available -->
 
 ## Credits
-Developed by Shrikant Wadkar. Inspired by open-source ML and data science communities.
+Developed by Shrikant Wadkar. Inspired by open-source ML and data science communities. 
